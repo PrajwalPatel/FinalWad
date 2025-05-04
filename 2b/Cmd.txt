@@ -1,0 +1,4 @@
+docker build -t foldername .
+docker images
+docker run foldername
+node filename.js
